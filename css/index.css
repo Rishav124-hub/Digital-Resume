@@ -1,0 +1,35 @@
+.body{
+    background-color: azure;
+    border-style: inset;
+    padding: 10px;
+    margin: 20px;
+}
+.h4{
+    text-align: center;
+    margin-bottom: 0%;
+}
+.anchor{
+    text-decoration: none;
+}
+.heading{
+    background-color: lightgray;
+    padding: 2px;
+    font-weight: bolder;
+    margin-top: 15px;
+}
+.td{
+    border: 1px solid black;
+    padding: 5px;
+}
+.table{
+    border: 1px solid black;
+    padding: 5px;
+    border-collapse: collapse;
+    width: 100%;
+}
+li{
+    margin: 5px;
+}
+.leftalign{
+    text-align: center;
+}
