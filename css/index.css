@@ -33,3 +33,16 @@ li{
 .leftalign{
     text-align: center;
 }
+table{
+    padding: 5px;
+    width: 100%;
+    border-collapse: collapse;
+}
+.td1{
+    padding: 0px;
+}
+.ul{
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    padding: 1px,5px,0px,5px;
+}
